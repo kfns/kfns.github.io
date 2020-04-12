@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.56829d98.chunk.css",
-    "main.js": "/static/js/main.cc0554db.chunk.js",
-    "main.js.map": "/static/js/main.cc0554db.chunk.js.map",
+    "main.js": "/static/js/main.525ffdef.chunk.js",
+    "main.js.map": "/static/js/main.525ffdef.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8f22c9ff.js",
     "runtime-main.js.map": "/static/js/runtime-main.8f22c9ff.js.map",
-    "static/css/2.f39249b0.chunk.css": "/static/css/2.f39249b0.chunk.css",
-    "static/js/2.842faca4.chunk.js": "/static/js/2.842faca4.chunk.js",
-    "static/js/2.842faca4.chunk.js.map": "/static/js/2.842faca4.chunk.js.map",
+    "static/css/2.b328fd89.chunk.css": "/static/css/2.b328fd89.chunk.css",
+    "static/js/2.4e7eade3.chunk.js": "/static/js/2.4e7eade3.chunk.js",
+    "static/js/2.4e7eade3.chunk.js.map": "/static/js/2.4e7eade3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.58cdb51a903a344e56074d6c43b128e3.js": "/precache-manifest.58cdb51a903a344e56074d6c43b128e3.js",
+    "precache-manifest.910b4ecca011d668f3920942a479083a.js": "/precache-manifest.910b4ecca011d668f3920942a479083a.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.f39249b0.chunk.css.map": "/static/css/2.f39249b0.chunk.css.map",
+    "static/css/2.b328fd89.chunk.css.map": "/static/css/2.b328fd89.chunk.css.map",
     "static/css/main.56829d98.chunk.css.map": "/static/css/main.56829d98.chunk.css.map",
-    "static/js/2.842faca4.chunk.js.LICENSE.txt": "/static/js/2.842faca4.chunk.js.LICENSE.txt",
+    "static/js/2.4e7eade3.chunk.js.LICENSE.txt": "/static/js/2.4e7eade3.chunk.js.LICENSE.txt",
     "static/media/amanda Cropped.jpg": "/static/media/amanda Cropped.c793fd41.jpg",
     "static/media/ananya Cropped.jpg": "/static/media/ananya Cropped.0a9159c2.jpg",
     "static/media/ananya.jpg": "/static/media/ananya.fe78bf7a.jpg",
@@ -35,6 +35,7 @@
     "static/media/rishi.jpg": "/static/media/rishi.f76bf8e5.jpg",
     "static/media/sathvik Cropped.jpg": "/static/media/sathvik Cropped.5afb00d6.jpg",
     "static/media/sathvik.jpg": "/static/media/sathvik.459b8d00.jpg",
+    "static/media/shivani Cropped.jpg": "/static/media/shivani Cropped.c22f2c52.jpg",
     "static/media/swathi Cropped.jpg": "/static/media/swathi Cropped.484498c1.jpg",
     "static/media/swathi.jpg": "/static/media/swathi.3c439257.jpg",
     "static/media/ujjaini Cropped.jpg": "/static/media/ujjaini Cropped.c6b935a1.jpg",
@@ -42,9 +43,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.8f22c9ff.js",
-    "static/css/2.f39249b0.chunk.css",
-    "static/js/2.842faca4.chunk.js",
+    "static/css/2.b328fd89.chunk.css",
+    "static/js/2.4e7eade3.chunk.js",
     "static/css/main.56829d98.chunk.css",
-    "static/js/main.cc0554db.chunk.js"
+    "static/js/main.525ffdef.chunk.js"
   ]
 }
