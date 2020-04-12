@@ -48,6 +48,14 @@ class Messages extends Component {
 
     messages = [
         {
+            name: 'Amanda',
+            content: `Happy Birthday Kai!!!
+            Thanks for being such an incredible friend!!! I always love running into you & when you knock on my door!!! #FromDavidsontoBlackwell. Youre such an incredible person overall: sweet, confident, articulate, HELLA smart, beautiful, & one of the kindest souls ever!! I’m so glad that I met you & I hope we continue hanging out with Brovie squad and talking about Bollywood movies!! <3 Seeing you and talking to you always brightens my day, & your energy is infectious!! Love you to the moon & back and I hope you have the best birthday ever!! Can’t want to hang out with you next semester!!!
+            Love, 
+            Amanda Wong
+            `
+        },
+        {
             name: 'Ananya',
             content: `Happy happy birthday kaivallya!!
             It sucks that we’re ten minutes from each other and still can’t celebrate your birthday together :( But until we can, we’ll keep up our routine from when we’re on different sides of the world. You’re still one of the nicest people i know, and i stand by what i said last year: you’ll always have an ear to vent to, advice if you want it and distraction when you need it. You’re legit one of the best friends I have, and one of the best people I ever met. I’m so grateful for Hogwarts Express and HFS MUN, because without them you wouldn’t be in my life. Thank you for always being there, and here’s to more long fandom chats, tea spilling sessions and the conversations about everything and nothing that could go on forever. I hope we never run out of things to talk about, and I love you <3
@@ -55,7 +63,13 @@ class Messages extends Component {
             `
         },
         {
-            name: 'Ankita'
+            name: 'Ankita',
+            content: `Kai hi!hi! Happy birthday! janmadin mubarak ho ho ho :)
+            I’m so happy I had a bubbly girl next door who kept coming and knocking on my door while I was taking naps!
+            There’s nobody else who’s mom I'd rather have brunch with, and nobody else to whom I can text “hi i need to rant” every couple of days. You’re so kind and present such a lovely judgement-free zone and also are so whacky in general that I’m always down to spill tea with you. Thank you for trying your best with the saree for bengali wedding night and singing ay tobe sohochori to validate my culture and for generally being the one person with whom I can have the most random conversations <3 
+            Lots of pyaar,
+            Ankita
+            `
         },
         {
             name: 'Kesav',
@@ -67,10 +81,28 @@ class Messages extends Component {
             `
         },
         {
-            name: 'Maya'
+            name: 'Maya',
+            content: `Dear Kaivallya,
+
+            I wanted to wish you a very very happy birthday! I'm sorry about your birthday in quarantine, but knowing you and your family you guys will make it something special to always remember. I, for one, tell so many stories about you to people around me that they are borderline annoyed, about us being sassy and stupid jokes and of course, the dodgeball scene in Enchantress of Elektra. Thank you for always being a call away and for checking in on my when I least expect it and when I need it most. I miss you, and hope I see you again soon (and we'll have the PARTY whooooooo)! Have a good day and a great year filled with happiness and learning <3
+            
+            Yours, 
+            
+            Maya
+            `
         },
         {
-            name: 'Pakhee'
+            name: 'Pakhee',
+            content: `My Friend Kaivallya, dear My Friend Kaivallya, My Dear Friend Kaivallya 
+            HAppY BirThdAY!! Unlike you i do not write infuriating fanfiction, so here’s some top class poetry instead:
+            Kaivallya Kaivallya Kaivallya
+            These words cannot rival ya 
+            But they come from the heart 
+            Like a well thrown dart 
+            So hope it’ll suffice to say 
+            Hey, how you doin, how’s your day going, huh? 
+            The OG trio demands you, duh! 
+            `
         },
         {
             name: 'Priya',
@@ -97,10 +129,17 @@ class Messages extends Component {
             `
         },
         {
-            name: 'Swathi'
+            name: 'Swathi',
+            content: `Kaivallya!! I hope you have the best 20th birthday (given the circumstances)! I wish we could celebrate in person, but drastic situations call for creative measures ;). You are one of the best friends I’ve made at Cal, and  I’ve had so much fun getting to know you over the last two years and I can’t wait to LIVE with you for the next two years! There’s no one else I’d rather send Harry Potter and Bollywood tiktoks to <3  Lots and lots of love <3 -Swathi `
         },
         {
-            name: 'Ujjaini'
+            name: 'Ujjaini',
+            content: `KAIVALLYA!
+            My north-south indian best frn! Hope that this surprise finds you well— with new obstacles comes new innovation yeeet! I’m so lucky that the I made the right decision on Sept. 14, because that day onwards, I gained a friend who became my positivity, my fun-teacher, and life cheerleader. Whether it be a random idea of going to SF at midnight or a drive to Berkeley Marina to de-stress, you’ve agreed to my crazy ideas, all the while making me more comfortable to be impulsive. And that’s a good thing. Along the way, you’ve also shown me the importance of passion. When we created the Sufi group, we all threw ourselves into a genre we had never sung, let alone be trained in. And yet, in learning Raag Yaman, we spent hours on simple phrases, and watching you give your all to something just to improve was probably the peak of my semester, because you showed me I don’t need to know anything going into an experience, but if I work hard, I’ll achieve anything. You are a pinnacle of exploration and hard work and watching you take on this year one step at a time has been unbelievably motivating. You’ve given me a life where my first priority is not being first, it’s friends. It’s because of people like you where I understood that. Thank you, from the bottom of my heart. 
+            
+            Here’s to more Hindustani Adele, Aaj Jaane ki Zidd na Karo, and late-night Parineeta!
+            Lots of love, Ujjaini
+            `
         }
     ]
 

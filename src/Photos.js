@@ -43,7 +43,13 @@ const Slideshow = () => {
 class Photos extends Component {
 
     render() {
-        return <Slideshow />;
+
+        const embed = `
+        `
+
+        return (
+            <div dangerouslySetInnerHTML={{__html: embed}} />
+        );
     }
 }
 
